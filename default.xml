@@ -42,13 +42,7 @@
 
   <!-- Proprietary Vendors -->
   <project path="vendor/asus" name="proprietary_vendor_asus" remote="purified" revision="lp" />
-  <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="purified" revision="lp" />
-  <project path="vendor/elan" name="proprietary_vendor_elan" remote="purified" revision="lp" />
-  <project path="vendor/invensense" name="proprietary_vendor_invensense" remote="purified" revision="lp" />
   <project path="vendor/moto" name="proprietary_vendor_moto" remote="purified" revision="lp" />
-  <project path="vendor/nxp" name="proprietary_vendor_nxp" remote="purified" revision="lp" />
-  <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="purified" revision="lp" />
-  <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="purified" revision="lp" />
 
   <!-- AOSP Repo's -->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
