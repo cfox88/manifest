@@ -32,6 +32,7 @@
   <project path="packages/apps/LockClock" name="android_packages_apps_LockClock" remote="purified" revision="lp" />
   <project path="packages/apps/Mms" name="android_packages_apps_Mms" remote="purified" revision="lp" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="purified" revision="lp" />
+  <project path="packages/apps/ScreenRecorder" name="android_packages_apps_ScreenRecorder" remote="purified" revision="lp" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="purified" revision="lp" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" groups="pdk-cw-fs" remote="purified" revision="lp" />
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="purified" revision="lp" />
