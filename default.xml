@@ -28,6 +28,7 @@
   <project path="frameworks/opt/hardware" name="android_frameworks_opt_hardware" remote="purified" revision="lp" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" groups="pdk" remote="purified" revision="lp" />
   <project path="packages/apps/Browser" name="android_packages_apps_Browser" remote="purified" revision="lp" />
+  <project path="packages/apps/Calendar" name="android_packages_apps_Calendar" remote="purified" revision="lp" />
   <project path="packages/apps/CellBroadcastReceiver" name="android_packages_apps_CellBroadcastReceiver" remote="purified" revision="lp" />
   <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="purified" revision="lp" />
   <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="purified" revision="lp" />
@@ -385,7 +386,6 @@
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" groups="pdk-cw-fs" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
-  <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />
   <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" groups="pdk-cw-fs" />
